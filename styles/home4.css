@@ -1,0 +1,14 @@
+.hp4 {
+    font-family: 'Helvetica';
+}
+
+.hp4 h3 {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.hp4 p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}

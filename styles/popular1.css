@@ -1,0 +1,20 @@
+#popular h2 {
+    font-family: 'Verdana';
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.pp1 {
+    font-family: 'Verdana';
+}
+
+.pp1 h3 {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.pp1 p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}

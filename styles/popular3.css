@@ -1,0 +1,14 @@
+.pp3 {
+    font-family: 'Verdana';
+}
+
+.pp3 h3 {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.pp3 p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}

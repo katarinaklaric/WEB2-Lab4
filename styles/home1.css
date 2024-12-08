@@ -1,0 +1,25 @@
+[id] {
+    scroll-margin-top: 100px;
+}
+
+#home h2 {
+    font-family: 'Arial';
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.hp1 {
+    font-family: 'Arial';
+}
+
+.hp1 h3 {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.hp1 p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+

@@ -1,0 +1,14 @@
+#contact-us {
+    font-family: 'Tahoma';
+}
+
+#contact-us h2 {
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+#contact-us p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
